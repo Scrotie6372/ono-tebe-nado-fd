@@ -150,7 +150,6 @@
 .card-content{
     display: flex;
     flex-direction: column;
-    /* justify-items: space-between; */
     padding: 48px 40px 48px 40px;
     min-height: 596px;
     width: 334px;
